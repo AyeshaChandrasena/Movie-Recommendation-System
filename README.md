@@ -3,7 +3,7 @@ This project demonstrates a basic Movie Recommendation System built using collab
 
 Features
 
-  Preprocessing of movie ratings dataset
+    Preprocessing of movie ratings dataset
 
     Exploratory Data Analysis (EDA) to understand user behavior and movie popularity
 
